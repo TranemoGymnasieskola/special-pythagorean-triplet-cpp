@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\filip lindhe nilsson\desktop\prog\c++\triplet-cpp\triplet-cpp\source.cpp(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\filip lindhe nilsson\desktop\prog\c++\triplet-cpp\triplet-cpp\source.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  triplet-cpp.vcxproj -> C:\Users\Filip Lindhe Nilsson\Desktop\prog\c++\triplet-cpp\Debug\triplet-cpp.exe
